@@ -9,7 +9,7 @@
  * Updated by:  Group 04
  *   041056432, Tanzim Ahmed, Sagar
  *   041047759, Fabrizio, Ruggirello
- *   studentId, firstName, lastName (as from ACSIS)
+ *   040650709, Najma Abdullahi
  *   studentId, firstName, lastName (as from ACSIS)
  *
  */
